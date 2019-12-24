@@ -24,7 +24,7 @@
 本项目JDK要求JDK1.8
 
 
-###一、springboot （pom.xml）
+### 一、springboot （pom.xml）
 
      <parent>
 		  <groupId>org.springframework.boot</groupId>
@@ -38,7 +38,7 @@
           <artifactId>spring-boot-starter-web</artifactId>
       </dependency>
   
-###二、mysql（pom.xml）
+### 二、mysql（pom.xml）
 
 	<!--集成mysql数据库-->
 	<dependency>
@@ -50,7 +50,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-jdbc</artifactId>
         </dependency>
-###三、mybatis（pom.xml）
+### 三、mybatis（pom.xml）
 
 	<dependency>
 		    <groupId>org.mybatis.spring.boot</groupId>
@@ -60,7 +60,7 @@
 		
 		application.properties添加：
 		mybatis.mapper-locations=classpath:mapper/*.xml
-###四、JSP（pom.xml）
+### 四、JSP（pom.xml）
 
 	        <!-- springboot支持JSP的相关依赖 -->
 		<!--servlet依赖 -->
@@ -88,7 +88,7 @@
 			<scope>provided</scope>
 		</dependency>
     
-###五、分页（pom.xml）
+### 五、分页（pom.xml）
 	  
 	 <dependency>
 		    <groupId>com.github.pagehelper</groupId>
@@ -96,14 +96,15 @@
 		    <version>1.2.3</version>
 		</dependency>
     
-###六、Tomcat（application.properties）
+### 六、Tomcat（application.properties）
 
       server.port=8082
 	
-#系统介绍
+	
+# 系统介绍
 部分功能系统截图
-##房东操作
-    ![image](https://github.com/1967718419/MavenHouse/blob/master/images/1.png)
+### 房东操作
+   ![image](https://github.com/1967718419/MavenHouse/blob/master/images/1.png)
     ![image](https://github.com/1967718419/MavenHouse/blob/master/images/2.png)
     ![image](https://github.com/1967718419/MavenHouse/blob/master/images/3.png)
     ![image](https://github.com/1967718419/MavenHouse/blob/master/images/4.png)
