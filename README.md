@@ -39,6 +39,7 @@
       </dependency>
   
 ###二、mysql（pom.xml）
+
 	<!--集成mysql数据库-->
 	<dependency>
             <groupId>mysql</groupId>
@@ -50,6 +51,7 @@
             <artifactId>spring-boot-starter-jdbc</artifactId>
         </dependency>
 ###三、mybatis（pom.xml）
+
 	<dependency>
 		    <groupId>org.mybatis.spring.boot</groupId>
 		    <artifactId>mybatis-spring-boot-starter</artifactId>
@@ -59,6 +61,7 @@
 		application.properties添加：
 		mybatis.mapper-locations=classpath:mapper/*.xml
 ###四、JSP（pom.xml）
+
 	        <!-- springboot支持JSP的相关依赖 -->
 		<!--servlet依赖 -->
 		<dependency>
@@ -99,6 +102,7 @@
 	
 #系统介绍
 部分功能系统截图
+##房东操作
     ![image](https://github.com/1967718419/MavenHouse/blob/master/images/1.png)
     ![image](https://github.com/1967718419/MavenHouse/blob/master/images/2.png)
     ![image](https://github.com/1967718419/MavenHouse/blob/master/images/3.png)
