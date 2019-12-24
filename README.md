@@ -112,3 +112,9 @@
     ![image](https://github.com/1967718419/MavenHouse/blob/master/images/6.png)
     ![image](https://github.com/1967718419/MavenHouse/blob/master/images/7.png)
     ![image](https://github.com/1967718419/MavenHouse/blob/master/images/8.png)
+### 租户操作
+   ![image](https://github.com/1967718419/MavenHouse/blob/master/images/9.png)
+   ![image](https://github.com/1967718419/MavenHouse/blob/master/images/10.png)
+   ![image](https://github.com/1967718419/MavenHouse/blob/master/images/11.png)
+   ![image](https://github.com/1967718419/MavenHouse/blob/master/images/12.png)
+   ![image](https://github.com/1967718419/MavenHouse/blob/master/images/13.png)
