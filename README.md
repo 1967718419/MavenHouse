@@ -85,13 +85,15 @@
 		</dependency>
     
 ###五、分页（pom.xml）
-	  <dependency>
+	  
+	 <dependency>
 		    <groupId>com.github.pagehelper</groupId>
 		    <artifactId>pagehelper-spring-boot-starter</artifactId>
 		    <version>1.2.3</version>
 		</dependency>
     
 ###六、Tomcat（application.properties）
+
       server.port=8082
 	
 #系统介绍
